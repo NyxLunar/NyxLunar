@@ -1,6 +1,6 @@
 ## About me
-<a href="https://linkedin.com/in/황주현" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="황주현" height="30" width="40" /></a>
 <a href="https://instagram.com/juhyun_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juhyun_04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/황주현" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="황주현" height="30" width="40" /></a>
 
 <h1 align="left">Hi 🤗 I'm Joohyun, studying to become a developer.</h1>
 <h3 align="left">Things being done</h3>
